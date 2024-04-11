@@ -1,20 +1,16 @@
 # Changelog
 
-Bard release 1.2
-
-March 19th 2024
-
-Not too many changes but ive mostly added things this patch, most of this stuff has to do with the healing subclass ive added College Of Health! But theres some stuff for the rest of you bard players out there! :)
-
-Fixes:
-
-- Changed Back From The Brink so that it is no longer a 7th level class feature (woops); and is now a 14th level feature. 
-
-- Physicians can no longer keep someone alive indefinitely, Back From the Brink now has a limit of how many times you can use it per long rest.
+Release of Galginax's Scroll of Sorcery!
 
 
-Additions:
+April 11th, 2024
 
-- Gave Bard the ability to learn from a spellbook/spellscrolls! (a variant rule of course, remember to ask your DM if you can use this; because it might make your wizard feel lame!)
 
-- Gave College of Health an Optional Feature (ask your DM before using this!) at level 6th that lets you make the most out of your potions!
+The Evil Wizard Galginax brings to you mortals his latest findings in his studies of sorcerers and casters as a whole!
+Most of this is Sorcerer variant rules but I did give you non-sorcerer players a change to have fun with wild magic with a feature that replaces your normal spellcasting! (it works almost exactly like the normal spellcasting with some differences of course) though it is incompatible with spellpoints, you should be able to have some fun with it!
+
+## Additions
+
+- added Expanded Sorcery Variant Rule
+- added Wild Magic Spellcasting Replacement Feature
+- added two new Sorcerer Bloodlines; Vampiric and Runic bloodline.
